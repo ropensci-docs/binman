@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3fac1d28f59deaa874379ad037bde99cac2cd92f",
+    "author": "Ju Yeong Kim <jkim2345@fredhutch.org>",
+    "time": "2020-10-02 21:46:52",
+    "files": 2,
+    "merge": false,
+    "message": "Submit to CRAN\n"
+  },
+  "remote": "https://github.com/ropensci/binman",
+  "pkg": "binman"
+}
