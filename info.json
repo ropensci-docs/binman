@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8149b1ea3b36f6e73ee81e6d0a7a14ec048a75bc",
+    "author": "Jonathan Völkle <jonathan.voelkle@web.de>",
+    "time": "2023-07-25T09:12:52Z",
+    "files": 10,
+    "merge": true,
+    "message": "Merge pull request #9 from ropensci/update_tests\n\nUpdate to testthat edition 3"
+  },
+  "repo": "https://github.com/ropensci/binman",
+  "pkg": "binman",
+  "time": "2026-08-30T07:11:22Z"
+}
